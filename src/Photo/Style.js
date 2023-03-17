@@ -12,7 +12,7 @@ export const TheMain = styled.div`
     position: relative;
 
     &:before{
-        content: "Fresh, High Quality";
+        content: "Fresh, High Quality yyy";
         position: absolute;
         font-size: 56px;
         background-color: #e8e0c770;
