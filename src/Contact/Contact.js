@@ -20,7 +20,7 @@ const Contact = () => {
 
           <Form>
             <Alll>
-              <H2>Book a table</H2>
+              <H2>Book a table .</H2>
               <PPP>Please fill out the form below, or call us directly at (987) 654-3210 to book a table.</PPP>
               <form>
                 <Input type="text" placeholder="    your Name" name="Name"/>
