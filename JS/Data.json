@@ -1,0 +1,204 @@
+{
+    "about":[
+        {
+            "id":1,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/about-01.jpg",
+            "name":"Jennifer Soft",
+            "joptitle":"Founder and CEO",
+            "ins":"fa-brands fa-square-instagram",
+            "fac":"fa-brands fa-square-facebook",
+            "you":"fa-brands fa-square-youtube",
+            "twit":"fa-brands fa-square-twitter",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto in maxime ipsum velit eum natus illo! Facilis ab perferendis animi eos dignissimos. Numquam soluta ad iste asperiores quod cumque?"
+        },
+        {
+            "id":2,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/about-02.jpg",
+            "name":"Daisy Walker",
+            "joptitle":"Executive Chef",
+            "ins":"fa-brands fa-square-instagram",
+            "fac":"fa-brands fa-square-facebook",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto in maxime ipsum velit eum natus illo! Facilis ab perferendis animi eos dignissimos. Numquam soluta ad iste asperiores quod cumque?"
+        },
+        {
+            "id":3,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/about-03.jpg",
+            "name":"Florence Nelson",
+            "joptitle":"Kitchen Manager",
+            "ins":"fa-brands fa-square-instagram",
+            "fac":"fa-brands fa-square-facebook",
+            "you":"fa-brands fa-square-youtube",
+            "twit":"fa-brands fa-square-twitter",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto in maxime ipsum velit eum natus illo! Facilis ab perferendis animi eos dignissimos. Numquam soluta ad iste asperiores quod cumque?"
+        },
+        {
+            "id":4,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/about-04.jpg",
+            "name":"Valentina Martin",
+            "joptitle":"Culinary Director",
+            "ins":"fa-brands fa-square-instagram",
+            "fac":"fa-brands fa-square-facebook",
+            "you":"fa-brands fa-square-youtube",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto in maxime ipsum velit eum natus illo! Facilis ab perferendis animi eos dignissimos. Numquam soluta ad iste asperiores quod cumque?"
+        }
+    ],
+    "menu":[
+        {
+            "id":1,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/02.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":2,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/03.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":3,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/04.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":4,
+            "pic":"https://cdn.healthyrecipes101.com/wp-content/uploads/2022/07/Mexican-Spaghetti-Recipe-250x250.jpeg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":5,
+            "pic":"https://juliesfamilykitchen.com/wp-content/uploads/2021/08/Crispy-and-Tender-Sous-Vide-Fried-Chicken-Recipe-500x500.jpg?ezimgfmt=rs:250x250/rscb2/ngcb2/notWebP",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":6,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/06.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":7,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/05.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":8,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/01.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        }
+        
+    ],
+    "meals":[
+        {
+            "id":1,
+            "pic":"https://www.cookincanuck.com/wp-content/uploads/2016/09/VeganPotatoSoupFinal-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":2,
+            "pic":"https://www.kimscravings.com/wp-content/uploads/2019/09/Healthy-Taco-Soup-4-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":3,
+            "pic":"https://i2.wp.com/karissasvegankitchen.com/wp-content/uploads/2016/05/vegan-gyro-salad-recipe-2-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":4,
+            "pic":"https://skinnyms.com/wp-content/uploads/2012/08/Southwestern-Black-Bean-Casserole1-1-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":5,
+            "pic":"https://www.kimscravings.com/wp-content/uploads/2021/06/Healthy-Burgers-3-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":6,
+            "pic":"https://www.makingthymeforhealth.com/wp-content/uploads/2022/10/Creamy-Butternur-Squash-and-Sausage-Soup-_-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":7,
+            "pic":"https://loseweightbyeating.com/wp-content/uploads/2021/06/AdobeStock_405907734-500x500.jpeg?ezimgfmt=rs:250x250/rscb3/ngcb3/notWebP",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":8,
+            "pic":"https://www.makingthymeforhealth.com/wp-content/uploads/2022/09/The-Best-Tempeh-Chili-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":9,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/02.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":10,
+            "pic":"https://healthyishfoods.com/wp-content/uploads/2021/06/Healthyish-Foods-567-250x250.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":11,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/03.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":12,
+            "pic":"https://templatemo.com/templates/templatemo_539_simple_house/img/gallery/04.jpg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":13,
+            "pic":"https://cdn.healthyrecipes101.com/wp-content/uploads/2022/07/Mexican-Spaghetti-Recipe-250x250.jpeg",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        },
+        {
+            "id":14,
+            "pic":"https://juliesfamilykitchen.com/wp-content/uploads/2021/08/Crispy-and-Tender-Sous-Vide-Fried-Chicken-Recipe-500x500.jpg?ezimgfmt=rs:250x250/rscb2/ngcb2/notWebP",
+            "name":"Name Of Plate",
+            "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.",
+            "price":"$29.99"
+        }
+    ]
+}
