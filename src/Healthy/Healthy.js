@@ -81,12 +81,12 @@ const Healthy = () => {
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.</p>
             <Span>$29.99</Span>
           </div>
-          <div className="item">
+          {/* <div className="item">
             <img src="https://cdn.healthyrecipes101.com/wp-content/uploads/2020/06/Healthy-Baked-Chicken-Breast-Recipe-healthykitchen101-3-250x250.jpg" alt="pic" style={{width:'250px' , height: '250px'}}/>
             <H3>Name Of Plate</H3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.</p>
             <Span>$29.99</Span>
-          </div>
+          </div> */}
           <div className="item">
             <img src="https://eatbetterrecipes.com/wp-content/uploads/Beef-and-Cauliflower-Stir-Fry-EatBetterRecipes-1-250x250.jpg" alt="pic" style={{width:'250px' , height: '250px'}}/>
             <H3>Name Of Plate</H3>

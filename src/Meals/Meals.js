@@ -113,12 +113,12 @@ const Meals = () => {
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.</p>
             <Span>$29.99</Span>
           </div>
-          <div className="item">
+          {/* <div className="item">
             <img src="https://cdn.healthyrecipes101.com/wp-content/uploads/2022/07/Mexican-Spaghetti-Recipe-250x250.jpeg" alt="pic" style={{width:'250px' , height: '250px'}}/>
             <H3>Name Of Plate</H3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, debitis.</p>
             <Span>$29.99</Span>
-          </div>
+          </div> */}
           <div className="item">
             <img src="https://juliesfamilykitchen.com/wp-content/uploads/2021/08/Crispy-and-Tender-Sous-Vide-Fried-Chicken-Recipe-500x500.jpg?ezimgfmt=rs:250x250/rscb2/ngcb2/notWebP" alt="pic" style={{width:'250px' , height: '250px'}}/>
             <H3>Name Of Plate</H3>

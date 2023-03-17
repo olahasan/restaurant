@@ -2,7 +2,8 @@ import styled from "styled-components";
 
   /* photo */
 export const TheMain = styled.div`
-    background-image: url(https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MFw9My09NEJZNkgoLlI8MzglT1BSVlAgIAo%3D&w=1920);
+    // background-image: url(https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MFw9My09NEJZNkgoLlI8MzglT1BSVlAgIAo%3D&w=1920);
+    background-image: url(imgs/main.webp);
     position: relative;
     background-size: cover;
     /* min-height: 100vh; */
@@ -12,7 +13,7 @@ export const TheMain = styled.div`
     position: relative;
 
     &:before{
-        content: "Fresh, High Quality";
+        content: "Fresh, High Quality ";
         position: absolute;
         font-size: 56px;
         background-color: #e8e0c770;

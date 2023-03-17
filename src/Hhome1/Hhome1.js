@@ -7,7 +7,8 @@ const Hhome1 = () => {
         <div className="container">
            <Big>
              <One>
-                 <Image src="https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MEErUlE5LDNZPU41SEY4REdJMFZXUFAgIAo%3D&w=480" alt="pic" />
+                 {/* <Image src="https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MEErUlE5LDNZPU41SEY4REdJMFZXUFAgIAo%3D&w=480" alt="pic" /> */}
+                 <Image src="imgs/hhome-left.webp" alt="pic" />
              </One>
              <Two>
                  <Title>Name of Plate</Title>
@@ -23,7 +24,8 @@ const Hhome1 = () => {
                 <Btn>See Our Menu</Btn>
             </Two>
             <One>
-                <Image src="https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MCZFSzpSMjVGSDBVRUYiK0I2OT9VKVAgIAo%3D&w=480" alt="pic" />
+                {/* <Image src="https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MCZFSzpSMjVGSDBVRUYiK0I2OT9VKVAgIAo%3D&w=480" alt="pic" /> */}
+                <Image src="imgs/hhome-right.webp" alt="pic" />
             </One>
           </Big2>
         </div>

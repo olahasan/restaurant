@@ -18,6 +18,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
       <Routes>
+        <Route exact path="/restaurant" element= {<Home />} />
         <Route exact path="/" element= {<Home />} />
         <Route exact path="/About" element= {<About />} />
         <Route exact path="/Menu" element= {<Menu />} />

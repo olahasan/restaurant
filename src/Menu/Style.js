@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 /* menu */
 export const Photo = styled.div`
-background-image: url(https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MCM5XzMmMyc5IzMnTCY0XEc8SS9MPyAgIAo%3D&w=1920);
+background-image: url(imgs/menu-main.webp);
+// background-image: url(https://templatedemo.website.com/remote/imageProxy.cfc?method=viewLibraryImage&s=MCM5XzMmMyc5IzMnTCY0XEc8SS9MPyAgIAo%3D&w=1920);
 height: 100vh;
 background-size: cover;
 position: relative;
